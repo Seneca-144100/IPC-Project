@@ -1,17 +1,17 @@
-# Assignments (20% of term grade)
+# Assignments (15% of term grade)
 
 ## Assignment
 ```
 Milestone   Assessment  Worth Term Grade
 =========== =========== ===== ==========
-1           Code        25.0%        5%
+1           Code        25.0%        3.5%
 ----------------------- ----- ----------
-2           Code        25.0%        5%
+2           Code        25.0%        3.5%
 ----------------------- ----- ----------
-3           Code        25.0%        5%
-            Reflection  25.0%        5%
+3           Code        25.0%        4%
+            Reflection  25.0%        4%
 ======================= ===== ==========
-                 Total:  100%      20.0%
+                 Total:  100%      15.0%
 ```
 ****
 
