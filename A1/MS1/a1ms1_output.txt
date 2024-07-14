@@ -1,0 +1,95 @@
+Assignment 1 Milestone 1: Tester
+================================
+
+TEST #1 - Instructions:
+1) Enter the word 'error'  [ENTER]
+2) Enter the number '-100' [ENTER]
+:>error
+Error! Input a whole number: -100
+////////////////////////////////////////
+TEST #1 RESULT: *** PASS ***
+////////////////////////////////////////
+
+TEST #2 - Instructions:
+1) Enter the number '-100' [ENTER]
+2) Enter the number '200'  [ENTER]
+:>-100
+ERROR! Value must be > 0: 200
+////////////////////////////////////////
+TEST #2 RESULT: *** PASS ***
+////////////////////////////////////////
+
+TEST #3 - Instructions:
+1) Enter the word 'error' [ENTER]
+2) Enter the number '-4'  [ENTER]
+3) Enter the number '12'  [ENTER]
+4) Enter the number '-3'  [ENTER]
+:>error
+Error! Input a whole number: -4
+ERROR! Value must be between -3 and 11 inclusive: 12
+ERROR! Value must be between -3 and 11 inclusive: -3
+////////////////////////////////////////
+TEST #3 RESULT: *** PASS ***
+////////////////////////////////////////
+
+TEST #4 - Instructions:
+1) Enter the number '14' [ENTER]
+:>14
+////////////////////////////////////////
+TEST #4 RESULT: *** PASS ***
+////////////////////////////////////////
+
+TEST #5 - Instructions:
+1) Enter the character 'R' [ENTER]
+2) Enter the character 'e' [ENTER]
+3) Enter the character 'p' [ENTER]
+4) Enter the character 'r' [ENTER]
+:>R
+ERROR: Character must be one of [qwErty]: e
+ERROR: Character must be one of [qwErty]: p
+ERROR: Character must be one of [qwErty]: r
+////////////////////////////////////////
+TEST #5 RESULT: *** PASS ***
+////////////////////////////////////////
+
+TEST #6: - Instructions:
+1) Enter the word 'horse'   [ENTER]
+2) Enter the word 'chicken' [ENTER]
+3) Enter the word 'SENECA'  [ENTER]
+:>horse
+ERROR: String length must be exactly 6 chars: chicken
+ERROR: String length must be exactly 6 chars: SENECA
+////////////////////////////////////////
+TEST #6 RESULT: SENECA (expected result: SENECA)
+////////////////////////////////////////
+
+TEST #7: - Instructions:
+1) Enter the words 'Seneca College' [ENTER]
+2) Enter the word 'CATS'            [ENTER]
+:>Seneca College
+ERROR: String length must be no more than 6 chars: CATS
+////////////////////////////////////////
+TEST #7 RESULT: CATS (expected result: CATS)
+////////////////////////////////////////
+
+TEST #8: - Instructions:
+1) Enter the word 'dogs'  [ENTER]
+2) Enter the word 'HORSES' [ENTER]
+:>dogs
+ERROR: String length must be between 5 and 6 chars: HORSES
+////////////////////////////////////////
+TEST #8 RESULT: HORSES (expected result: HORSES)
+////////////////////////////////////////
+
+////////////////////////////////////////
+TEST #9 RESULT:
+Expecting (___)___-____ => Your result: (___)___-____
+Expecting (___)___-____ => Your result: (___)___-____
+Expecting (___)___-____ => Your result: (___)___-____
+Expecting (___)___-____ => Your result: (___)___-____
+Expecting (___)___-____ => Your result: (___)___-____
+Expecting (___)___-____ => Your result: (___)___-____
+Expecting (416)111-4444 => Your result: (416)111-4444
+////////////////////////////////////////
+
+Assignment #1 Milestone #1 testing completed!

@@ -1,0 +1,20 @@
+error
+-100
+-100
+200
+error
+-4
+12
+-3
+14
+R
+e
+p
+r
+horse
+chicken
+SENECA
+Seneca College
+CATS
+dogs
+HORSES
