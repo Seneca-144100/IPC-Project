@@ -1,4 +1,4 @@
-# Assignments (20% of term grade)
+# Assignments (15% of term grade)
 
 ## Assignment
 ```
